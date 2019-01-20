@@ -1,5 +1,5 @@
 # Ants-vs-Bees
- This project highlights the object-oriented programming paradigm. It is a clone of the popular tower defense game, Plants Vs Zombies.
+This project is a Plants vs. Zombies-styled tower defense game written in Python. The game includes various types of ants that can be built to defend	the hive against enemy bees. Implementation of bees, ants, and playable area utilizes object-oriented design and inheritance.
 
 To play:
 
